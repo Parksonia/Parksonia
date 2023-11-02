@@ -43,15 +43,15 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/>
+ <picture><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></picture>
+ <picture><img src="https://img.shields.io/badge/Portfolio-FFE200?style=flat&logo=Portfolio&logoColor=white"/></picture>
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parksonia&layout=compact"><br><br>
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parksonia&layout=compact"></picture><br><br>
 </div>
 <div align=center>
-	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" /></picture>
 </div>
 
 <!--
