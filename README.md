@@ -36,7 +36,9 @@
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Tomcat&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
+	
 </div>
 <br>
 <div align=center>
