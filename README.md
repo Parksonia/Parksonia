@@ -50,7 +50,7 @@
 </div>
 <div align=center>
 	<br>
-<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parksonia&hide=scss,css&layout=compact"></picture><br><br>
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parksonia&hide=html,css&layout=compact"></picture><br><br>
 </div>
 <div align=center>
 <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" /></picture>
